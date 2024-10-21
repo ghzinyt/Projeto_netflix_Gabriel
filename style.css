@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color:rgb(121, 9, 106);
+}
+header{
+    border-bottom: solid 2px rgb(240, 240, 240);
+    padding: 20px;
+    font-size: 35px;
+    color: rgb(0, 255, 242);
+}
+.chamada{
+    background-color:rgb(211, 0, 0);
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
